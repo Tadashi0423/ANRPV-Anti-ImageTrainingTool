@@ -5,8 +5,8 @@
 
 **English**：ANRPV Anti-ImageTrainingTool is an image protection tool designed to prevent unauthorized AI models from using images for training. By combining **Adversarial Noise** (generated using Projected Gradient Descent, PGD) and **Randomized Pixel Values**, it disrupts AI training while preserving visual quality. The tool offers an intuitive GUI, supporting Chinese/English switching, path memory, image preview, drag-and-drop, progress bar, and logging.
 
-圖片為ANRPV界面 ANRPV user
-![ANRPV GUI Screenshot](https://github.com/Tadashi0423/ANRPV-Anti-ImageTrainingTool/blob/main/gui_screenshot.png?raw=true)interface:
+圖片為ANRPV界面 ANRPV User Interface:
+![ANRPV GUI Screenshot](https://github.com/Tadashi0423/ANRPV-Anti-ImageTrainingTool/blob/main/gui_screenshot.png?raw=true)
 
 
 ## 功能 / Features
